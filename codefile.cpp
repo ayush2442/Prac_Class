@@ -2,9 +2,9 @@
 
 int main() {
     int number;
-    std::cout << "Please enter a number: ";    
+    std::cout << "Please enter a single number: ";    
     std::cin >> number;
-    std::cout << "The number you entered is: " << number << std::endl;
+    std::cout << "The single number you entered is: " << number << std::endl;
 
     return 0;
 }
